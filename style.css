@@ -1,0 +1,13 @@
+body{
+	background-color: #333
+}
+.wapper{
+	background-color: #FFFF00;
+	margin: auto;
+	width: 1200px;
+}
+.box{
+	width: 120px;
+	border: 2px width #FFF 
+	margin:10px;
+}
